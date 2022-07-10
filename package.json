@@ -1,7 +1,7 @@
 {
   "name": "njwtm",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a API whit NodeJs and MongoDb also have auth whit JsonWebToken",
   "main": "index.js",
   "scripts": {
     "babel-node": "babel-node --presets=@babel/preset-env",
@@ -10,7 +10,7 @@
     "start": "node build/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Howard Hinestroza",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
